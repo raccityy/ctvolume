@@ -1,0 +1,38 @@
+{
+  "counter": 173,
+  "tx_counter": 0,
+  "orders": {
+    "#00173": {
+      "id": "#00173",
+      "user_id": 7680901282,
+      "username": "nice_guy143",
+      "kind": "volume",
+      "package_id": "vol_250k",
+      "price": 3.5,
+      "full_price": 3.5,
+      "ca": "84uEJJp3hyhFXSc1wD3X6Qkppkj2rAK9ff1cTza5pump",
+      "name": "",
+      "symbol": "",
+      "chain": "unknown",
+      "dex": "",
+      "pair_address": "",
+      "pair_url": "",
+      "description": "",
+      "website": "",
+      "twitter": "",
+      "telegram": "",
+      "tx_hash": "",
+      "status": "draft",
+      "created_at": 1787137609.14688,
+      "activated_at": null,
+      "expires_at": null
+    }
+  },
+  "balances": {},
+  "transactions": {},
+  "users": {
+    "7680901282": {
+      "first_seen_at": 1787137338.221794
+    }
+  }
+}
